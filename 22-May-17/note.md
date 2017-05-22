@@ -1,4 +1,4 @@
-# First half
+# Part 1
 
 早上好，我是刘先生，我是爱丽丝，您的客户服务顾问，我今天能怎样帮助您呢。
 
@@ -54,7 +54,7 @@ Ok, I get it. Thank you for your help.
 
 
 
-# Second half
+# Part 2
 早上好，林女士，我的名字是丽莎，我知道/我明白/我了解/-到（从别人那里听来的）-你最近失业了。
 请问，-你可不可以告诉我更多的关于你的境况/最近处境的事情-可不可以请你向我详细地介绍你的境况。
 
@@ -101,10 +101,57 @@ Ok, I'll come back to you/get back to you another day. Thank you.
 
 
 
+# Part 3
+早上好，林女士，已经有一个月没有见到你了，你寻找工作的情况怎样呢？
+
+Good morning. Things are not as easy as I expected. I contacted many employers but got no news from them/didn't hear from them after the first contact. 
+
+我很遗憾听到这件事。你有没有带来寻公表格，我需要它来在更新你在系统中的信息，-Centrelink需要对你一直在积极的寻找工作感到满意-需要认定你一直在积极的寻找工作。
+
+feel satisified that - 很正式的用语（法律），认定裁定
+
+Here's the form. I put/wrote down the details of each contact in the form like the name of the business, contact name and general contents of the conversations.
+I don't want this to affect my payment./I don't want my oayment to be affected cecause of this. 
+
+我可以看的出你在努力寻找工作方面做的非常好，事情并不容易，特别是如果寻公者英语不太好，你是否想要考虑一个语言课程
+
+try to do = try one's best to do = 尽全力去做
+try doing = 尝试，试一试
+tell - 分辨，看得出
+when - 有时候表示如果
 
 
+You brought this up to me before. I want to try looking for a job for another month. 
+Because my friend told me the language school is kind of on holiday nmow. I still need to wait another two months even if I am happy to attend it. 
+
+memtion - 有局限性，表达不经意一说
+提到，提及 - brought this up
+介绍 ！= introduce
+行为 ！= behaviour
+交流 ！= communication
+好像 = seems to/kind of
+
+wait (for). e.g. I have waited you for two hours here. 
 
 
+学校这事儿让你说对了/说着了，但是清仍然把这留作一个选择，根据你的工作能力评估，现在要求你每周工作15小时，你有兴趣进行一些义务工作吗？
 
 
+you are required = 你必须
+无主句 - 需要坐火车去城里 = train is needed to go to city. 
 
+Vuluntary work i am happy to work ...
+It's really difficult to do voluntary work while looking for a job. 
+I am not sure if i can mange / handle / make it. 
+
+
+愿意 != willing to do (法律用此) = happy to
+
+
+不林女士，我们是不会这样过分要求的，如果你能够座一些义工，那么你花在这份公座上的时间将会认为是/算作寻找工作的时间
+
+over demainding = 过分要求
+
+
+That's great! I volunteer regularly / volunrarily work regularly at the Chinese community centre. 
+A job like this suits me best. I am already a skilled volunteer. I can contact the superivisor / manager to increase my working hours. 
